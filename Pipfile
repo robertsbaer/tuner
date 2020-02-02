@@ -10,6 +10,8 @@ django = "*"
 psycopg2-binary = "*"
 django-extensions = {path = "./django-extensions"}
 ipython = "*"
+djangorestframework = "*"
+djangorestframework-simplejwt = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.6"
